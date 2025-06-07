@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the CompliMate 1.0
+---------------------------------------------------
+
+app_name - 						CompliMate
+app_alias - 					complimate
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Tamil Nadu
+app_author_country - 			India
+app_password - 					3ChAic0UIiwJ
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Friday 25th of April 2025 02:12:55 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
